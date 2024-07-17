@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"model","l":"Card"},{"p":"controller","l":"GameLogic.CardImageData"},{"p":"model","l":"Deck"},{"p":"view","l":"GameGUI"},{"p":"controller","l":"GameLogic"},{"p":"view","l":"GameMenu"},{"p":"<Unnamed>","l":"JBlackJack"},{"p":"model","l":"Player"}];updateSearchResults();
